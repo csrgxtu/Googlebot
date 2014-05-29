@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/csrgxtu/Googlebot/master/data/Googlebot-Logo.png" alt="Googlebot Logo"/>
 ======
 
-<p><h3>Googlebot</h3> is a crawler implemented by Java, inspired by Google Inc and my formal<br />
+<p><b>Googlebot</b> is a crawler implemented by Java, inspired by Google Inc and my formal<br />
 project Google. it is used to crawl the WWW and store the orginal data into plain<br />
 text files and some URL information into database.</p>
 
